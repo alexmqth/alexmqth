@@ -1,9 +1,9 @@
 ### Hi 👋 I'm [Qiang Ma](https://alexmqth.github.io) 
-I am a Senior Researcher at [Tencent](https://www.tencent.com/en-us/about.html). I am pursuing my Ph.D. degree at the [National University of Singapore (NUS)](https://cde.nus.edu.sg/ece/), supervised by [Prof. Robby T. Tan](http://tanrobby.github.io/). I had my research internship in [Adobe](https://research.adobe.com/), mentored by [Prof. Connelly Barnes](http://www.connellybarnes.com/work/).
+I am a second-year M.S. candidate in Computer Science at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), supervised by Professor [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en). 
 
-Previously, I completed my M.Sc. degree from the [National University of Singapore (NUS)](https://cde.nus.edu.sg/ece/); and received my B.Eng degree from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). 
+Previously, ​I completed a B.S. in Computer Science from [Harbin Engineering University](http://www.hrbeu.edu.cn/) (HEU). 
 
-My primary research interests include computer vision and deep learning, mainly focusing on image/video generation and enhancement.
+My research ​centers on Multimodal Learning​ and ​Medical Image Analysis.
 
 **Languages and Tools:**  
 ![Qiangma's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmqth&theme=gotham&show_icons=true&count_private=true&include_all_commits=true)
